@@ -1,0 +1,11 @@
+# Directory for downloaded PDFs
+lucid_pdfs/
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
