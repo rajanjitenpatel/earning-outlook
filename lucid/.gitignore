@@ -9,3 +9,6 @@ env/
 # Python cache
 __pycache__/
 *.pyc
+
+# All dot files
+.*
